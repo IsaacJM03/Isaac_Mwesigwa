@@ -2,3 +2,5 @@
 agri_model.h5
 *.jar
 *.pyc
+.env
+
